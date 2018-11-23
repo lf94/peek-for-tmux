@@ -8,3 +8,5 @@ Place this in your .bashrc:
 Restart your terminal.
 
 Run `peek a_file_you_really_want_to_look_at.txt`
+
+PS! Make sure you have set `export EDITOR=<your editor of choice>`, otherwise the split window will just open then close.
